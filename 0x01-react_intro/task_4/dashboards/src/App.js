@@ -2,6 +2,7 @@
 import './App.css';
 import { getFooterCopy, getFullYear } from './utils.js';
 
+
 function App() {
   return (
     <div className="App">

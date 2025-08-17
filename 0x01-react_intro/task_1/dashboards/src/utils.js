@@ -15,10 +15,11 @@ export const getFooterCopy = (isIndex) => {
 
 
 export function getLatestNotification () {
-    return (
-        <div className="getLatestNotification">
-            <strong>Urgent requirement</strong> - complete by EOD
-        </div>
-    )
+    // return (
+    //     <div className="getLatestNotification">
+    //         <strong>Urgent requirement</strong> - complete by EOD
+    //     </div>
+    // )
+    return ('<strong>Urgent requirement</strong> - complete by EOD')
 
 }

@@ -1,0 +1,41 @@
+hr.solid {
+  border-top: 1px solid red;
+  width: auto;
+  
+}
+
+.App-logo {
+  width: 100px;
+  height: auto;
+}
+
+.App-header h1 {
+  color: rgb(202, 45, 45);
+}
+.App-header {
+  display: flex;          /* make children (img, h1) align horizontally */
+  align-items: center;    /* vertically center them */
+  gap: 20px;
+}
+
+
+.App-body {
+  margin-top: 10px;
+  display: flex;          /* make children (img, h1) align horizontally */
+  align-items: center;    /* vertically center them */
+  gap: 20px;
+}
+
+
+footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+
+    }
+
+footer p {
+  font-family:Serif;
+}
