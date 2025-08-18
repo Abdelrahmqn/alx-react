@@ -1,0 +1,15 @@
+hr.solid {
+  border-top: 1px solid red;
+  width: auto;
+  
+}
+
+
+
+.App-body {
+  margin-top: 10px;
+  display: flex;          /* make children (img, h1) align horizontally */
+  align-items: center;    /* vertically center them */
+  gap: 20px;
+}
+

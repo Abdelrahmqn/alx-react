@@ -1,0 +1,15 @@
+.Notifications {
+  border: 2px solid #eee;
+  padding: 20px;
+  position: relative;
+  width: 400px;
+}
+
+.Notifications li{
+    color: rgb(184, 96, 96);
+}
+
+.Notifications ul {
+  list-style-type: none;
+  padding: 0;
+}
