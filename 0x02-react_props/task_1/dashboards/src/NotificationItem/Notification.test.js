@@ -1,8 +1,8 @@
 import { render } from '@testing-library/react';
-import Footer from './Footer.js';
+import NotificationItem from './NotificationItem';
 
 test('renders learn react link', () => {
-  render(<Footer />);
+  render(<NotificationItem />);
 //   const linkElement = screen.getByText(/learn react/i);
 //   expect(linkElement).toBeInTheDocument();
 });
